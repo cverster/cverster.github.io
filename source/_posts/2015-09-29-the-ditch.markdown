@@ -3,7 +3,7 @@ layout: post
 title: "The Ditch"
 date: 2015-09-29 11:02:08 +0200
 comments: true
-categories: [reconciliation, south africa, optimism]
+categories: [reconciliation, south africa]
 ---
 
 Recently I attended a course where we did a devotional session on the parable of the good samaritan. Most of us know this parable, recorded in [Luke 10](http://www.esvbible.org/Luke+10/), where an expert in the law tries to test Jesus and asks Him:
